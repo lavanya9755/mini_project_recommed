@@ -1,5 +1,4 @@
-# Python Code for Coffee Shop Chatbot
-This folder contains the Python code and notebooks necessary for building and deploying the chatbot system for the coffee shop app. The code is organized into several components, each serving a specific function within the overall project.
+# Coffee Shop Recommendation bot
 
 ## 📂 Directory Structure
 ```bash
